@@ -1,0 +1,35 @@
+adaptive-icon;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\110\res\layout\activity_main.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\110\res\layout\vistaprincipal.xml
+background;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
+Button;obj\Debug\110\res\layout\activity_main.xml
+Button;obj\Debug\110\res\layout\vistaprincipal.xml
+cache-path;C:\Users\oscar\Documents\Aplicaciones moviles\Ejercicio3\Ejercicio3\obj\Debug\110\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\110\res\values\colors.xml
+color;obj\Debug\110\res\values\ic_launcher_background.xml
+corners;obj\Debug\110\res\drawable\fondoboton.xml
+EditText;obj\Debug\110\res\layout\activity_main.xml
+EditText;obj\Debug\110\res\layout\vistaprincipal.xml
+external-cache-path;C:\Users\oscar\Documents\Aplicaciones moviles\Ejercicio3\Ejercicio3\obj\Debug\110\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;C:\Users\oscar\Documents\Aplicaciones moviles\Ejercicio3\Ejercicio3\obj\Debug\110\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
+gradient;obj\Debug\110\res\drawable\fondoboton.xml
+gradient;obj\Debug\110\res\drawable\fondogradiente.xml
+gradient;obj\Debug\110\res\drawable\fondogradiente1.xml
+ImageView;obj\Debug\110\res\layout\activity_main.xml
+ImageView;obj\Debug\110\res\layout\vistaprincipal.xml
+item;obj\Debug\110\res\values\styles.xml
+paths;C:\Users\oscar\Documents\Aplicaciones moviles\Ejercicio3\Ejercicio3\obj\Debug\110\lp\44\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;obj\Debug\110\res\values\colors.xml
+resources;obj\Debug\110\res\values\ic_launcher_background.xml
+resources;obj\Debug\110\res\values\strings.xml
+resources;obj\Debug\110\res\values\styles.xml
+shape;obj\Debug\110\res\drawable\fondoboton.xml
+shape;obj\Debug\110\res\drawable\fondogradiente.xml
+shape;obj\Debug\110\res\drawable\fondogradiente1.xml
+string;obj\Debug\110\res\values\strings.xml
+style;obj\Debug\110\res\values\styles.xml
+TextView;obj\Debug\110\res\layout\vistaprincipal.xml
